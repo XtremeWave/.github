@@ -30,6 +30,7 @@ XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们�
  - 念情丶: TONEX文本设计
  - 空水梦冰: 角色设计
  - ㍿: TONEX角色设计
+ - 白糖咖啡: 翻译
  - 中立小黑: 翻译
 ## 赞助我们
 请访问[XtremeWave官方网站](https://www.xtreme.net.cn/donate)。
