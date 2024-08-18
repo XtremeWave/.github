@@ -10,24 +10,25 @@ XtremeWave是一支专注于游戏开发和技术创新的团队，致力于为�
 我们在GitHub上有多个开源项目，例如TownOfNewEpic_Xtreme。<br>
 XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们的网站和服务。
 ## XtremeWave成员
-> 现在XtremeWave已经有18人辣~
+> 现在XtremeWave已经有20人啦~
 ### 开发组成员
- - Slok7565: TONEX开发者 | USF开发者
- - 是喜诶: TONEX开发者 | USF开发者
+ - Slok7565: TONEX开发者、FSX开发者、USF创立者
+ - 是喜诶: TONEX开发者、FSX开发
+ - farewell: TORE开发者 
  - ZEYAN: TONEX开发者
  - 玖咪: TONEX开发者
- - QingFeng: 网站开发 | TONEX车队姬维护
+ - QingFeng: 网站开发
 ### 文创组成员
  - 崩pz衫: USF剧情设计
  - 小黄117: TONEX美术
  - 核聚变砂糖橘TvT: TONEX美术
  - Crewmate Ender &amp; Impostor Ender: TONEX美术
  - 照路行不行: TONEX美术
- - caaattt: TONEX美术
+ - KpCam: TONEX美术
  - Hartex: TONEX推广
  - JMS: TONEX推广
  - 刻刻刻刻刻薄: TONEX推广
- - 念情丶: TONEX文本设计
+ - 一念旧情丶: TONEX文本设计
  - 空水梦冰: 角色设计
  - ㍿: TONEX角色设计
  - 白糖咖啡: 翻译
