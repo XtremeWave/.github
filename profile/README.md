@@ -5,10 +5,6 @@
 <a href="https://www.xtreme.net.cn" target="_blank">XtremeWave官方网站</a> | [XtremeWave Github] | <a href="https://gitee.com/TEAM_TONEX" target="_blank">XtremeWave Gitee</a>
 </div>
 
-## 关于我们
-XtremeWave是一支专注于游戏开发和技术创新的团队，致力于为玩家提供高质量的游戏体验。<br>
-我们在GitHub上有多个开源项目，例如TownOfNewEpic_Xtreme。<br>
-XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们的网站和服务。
 ## XtremeWave成员
 ### 开发组成员
  - Slok7565: TONEX开发者、FSX开发者、USF创立者
