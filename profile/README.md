@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3><strong>XtremeWave,Among Us Mod出色贡献者。</strong></h3>
-<a href="https://www.xtreme.net.cn" target="_blank">XtremeWave官方网站</a> | [XtremeWave Github] | <a href="https://gitee.com/TEAM_TONEX" target="_blank">XtremeWave Gitee</a>
+<a href="https://www.xtreme.net.cn" target="_blank">[XtremeWave Github] | <a href="https://gitee.com/XtremeWave" target="_blank">XtremeWave Gitee</a>
 </div>
 
 ## XtremeWave成员
