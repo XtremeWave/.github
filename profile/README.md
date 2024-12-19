@@ -12,7 +12,6 @@
  - farewell: TORE开发者 
  - ZEYAN: TONEX开发者
  - 玖咪: TONEX开发者
- - QingFeng: 网站开发
 ### 文创组成员
  - 崩pz衫: USF剧情设计
  - 小黄117: TONEX美术
@@ -28,3 +27,4 @@
  - ㍿: TONEX角色设计
  - 白糖咖啡: 翻译
  - 中立小黑: 翻译
+ - 因果
